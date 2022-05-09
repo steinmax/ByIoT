@@ -1,0 +1,2 @@
+# ByIoT
+Zentrale Verwaltung von verschiedensten IoT Geräten, wie zum Beispiel Temperatur-, Luftfeuchtigkeits-, Licht-, Gassensoren uvm., mithilfe eines eigengehosteten unabhängigen Servers, welcher als Knotenpunkt und Sammelstelle für jegliche Daten dient. Die Steuerung kann live in Echtzeit, abhängig von anderen Messwerten oder auch über gespeicherte  bzw. vordefinierte Abläufe (aka. Routinen) erfolgen. So können bestimmte Vorgänge, wie zum Beispiel das Herunterlassen von Rollos aufgrund einer Lichtintesität die einen definierten Schwellenwert  über-/unterschreitet.
