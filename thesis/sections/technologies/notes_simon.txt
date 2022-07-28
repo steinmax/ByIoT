@@ -1,0 +1,1 @@
+write about js framework (zB. Angular) vs js library (zB. ReactJS)
